@@ -42,7 +42,7 @@ SPACE FIRE ICE LAND
 ## Built With
 
 * [Maven](https://maven.apache.org/) - Dependency Management
-* [JDK 1.7+](https://www.oracle.com/java/technologies/javase-downloads.html) - Programming language used
+* [Java](https://www.oracle.com/java/technologies/javase-downloads.html) - Programming language used
 
 
 ## Acknowledgments
